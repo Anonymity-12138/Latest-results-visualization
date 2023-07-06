@@ -1,7 +1,7 @@
 # Latest-results-visualization
 ![Upper](/title-upper-comp.png "Visualization of the results of a re-comparison with Infoswap")
-<div align="center">图像标题</div>
-***Figure 1. Visualization of the results of a re-comparison with Infoswap***
+<div align="center">***Figure 1. Visualization of the results of a re-comparison with Infoswap***</div>
+
 
 In order to re-evaluate the facial swapping effect of our proposed method, we compared RCLSwap again with the state-of-the-art method, InfoSwap, on this set of examples. 
 - ***Eye area problem (the green bounding box)***: Firstly, we have to acknowledge that our generation of the eye region is still imperfect in certain images, such as the target image in the first column, where InfoSwap achieves a better restoration effect. However, this is not the case for all samples, as evidenced by the additional visualization results provided in the experimental section of our paper.
