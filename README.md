@@ -1,2 +1,2 @@
 # Latest-results-visualization
-![Upper](title-upper-comp.png, 'image')
+![Upper](./title-upper-comp.png, 'image')
