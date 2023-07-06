@@ -1,5 +1,6 @@
 # Latest-results-visualization
 ![Upper](/title-upper-comp.png "Visualization of the results of a re-comparison with Infoswap")
+<center>Visualization of the results of a re-comparison with Infoswap</center>
 
 In order to re-evaluate the facial swapping effect of our proposed method, we compared RCLSwap again with the state-of-the-art method, InfoSwap, on this set of examples. Firstly, we acknowledge that on certain images, InfoSwap performs better than us in terms of restoring the eye region of the target face (indicated by the green bounding box). However, at the same time, we can also observe that RCLSwap outperforms InfoSwap in restoring facial attributes, for example, the **glasses legs** of the synthesized person in the third column **(indicated by the red bounding box)**. And in the fourth column, we can see that the boundary between the synthesized face and the background in InfoSwap is not clear, exhibiting obvious artifacts. Moreover, the black **dots on the face (indicated by the yellow bounding box)** are directly lost.
 
